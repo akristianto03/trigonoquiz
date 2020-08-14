@@ -1,0 +1,162 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+p{
+    font-size: 20px;
+}
+
+.judul p{
+    margin-top: -30px;
+}
+
+.container{
+    background-color: #ebe7e2;
+    width: 100%;
+}
+
+.bg{
+    text-align: center;
+    position: absolute;
+    width: 100%;
+}
+
+.head{
+    padding-bottom: 750px;
+}
+
+.judul{
+    position: absolute;
+    margin: 200px 0 0 400px;
+}
+
+.judul h1{
+    line-height-step: 10px;
+    font-size: 70px;
+}
+
+.content{
+    width: 90%;
+    margin: auto;
+}
+
+.definisi img{
+    width: 50%;
+    float: left;
+    margin: 0 30px 0 0;
+}
+
+.lanjutan{
+    clear: both;
+    margin-top: 300px;
+    text-align: center;
+}
+
+.lanjutan p{
+    text-align: left;
+}
+
+.rumus{
+    width: 30%;
+    margin: 0 0 0 380px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.formula{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.contoh{
+    margin-top: 30px;
+    text-align: center;
+    padding: 20px;
+    border: 5px solid #cccac6;
+    background-color: #cccac6;
+    border-radius: 15px;
+}
+
+.contoh img{
+    width: 40%;
+}
+
+.lanjutan2{
+    text-align: center;
+}
+
+.lanjutan2 p{
+    float: left;
+    text-align: left;
+    width: 40%;
+}
+
+.lanjutan3 {
+    text-align: center;
+}
+
+.lanjutan3 p{
+    text-align: left;
+    width: 50%;
+    margin: auto;
+}
+
+.lanjutan3 img{
+    margin-top: 30px;
+    width: 40%;
+}
+
+.lanjutan4 {
+    padding-bottom: 100px;
+}
+
+.lanjutan4 h1{
+    text-align: center;
+}
+
+.lanjutan4 h2{
+
+}
+
+.lanjutan4 img{
+    padding: 10px;
+    border: 2px solid #ff7156;
+}
+
+.mulai{
+    text-align: center;
+    
+}
+
+.mulai img{
+    left: 0;;
+    position: absolute;
+    width: 100%;
+}
+
+.quiz{
+    position: absolute;
+    margin: 175px 0 0 450px;
+}
+
+.mulai h1{
+    font-size: 36px;
+    top: 0;
+}
+
+.tombol{
+    width: 25%;
+    padding: 20px;
+    background-color: #008892;
+    border: 1px solid #008892;
+    border-radius: 10px;
+}
+
+.tombol a{
+    text-decoration: none;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 24px;
+}
